@@ -13,8 +13,10 @@ I truly believe that our differences contribute to better solutions because we c
 I would love to have more time to share more about my professional skills.
 
 ### During my time off I love to spend time doing... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
+<br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact)<br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact)
+<br><br>
 
 
 ## 📱 UX / UI Designer
