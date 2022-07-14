@@ -15,8 +15,8 @@ The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more s
 ### During my time off, I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 <br>
 If you want to learn more about me or want to connect, please feel free to join!<br>
-https://www.linkedin.com/in/klebersousa/<br>
-https://kleberux.com/<br>
+https://www.linkedin.com/in/klebersousa<br>
+https://kleberux.com<br>
 Kleber<br>
 😉
 <br>
