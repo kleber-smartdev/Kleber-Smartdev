@@ -111,10 +111,10 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="100"/>
+    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="125"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="100"/>
+    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="125"/>
   </a> 
 </p>
