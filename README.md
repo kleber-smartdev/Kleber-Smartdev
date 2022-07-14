@@ -9,4 +9,4 @@ I truly believe that our differences contribute to better solutions because we c
 ### 🔥 I have been working in the digital industry for more than a decade.
 In 2009, I started to work with multicultural teams across the globe. In 2013 I had a short business program in Toronto, Canada. When I returned to São Paulo, Brazil resuming my digital career there; I started to think about immigrating to Canada for better opportunities. In 2016 I moved to Vancouver, Canada, where I have been developing my skills.
 
-### During my free times I love to spend time doing... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
+### During my time off I love to spend time doing... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
