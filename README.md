@@ -41,15 +41,15 @@ I would love to have more time to share more about my professional skills.
     <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-photo.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height="55"/>
   </a>
    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-after.svg" alt="Adobe After Effects" title="Adobe After Effects" height="50"/>
   </a>
    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-prem.svg" alt="Adobe Premiere" title="Adobe Premiere" height="50"/>
   </a> 
 </p>
