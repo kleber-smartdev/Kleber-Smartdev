@@ -83,7 +83,6 @@ I would love to have more time to share more about my professional skills.
   <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" width="50" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<br>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://kleberux.com/imgs/tailwind-css.svg" alt="Tailwind CSS" width="50" height="50"/>
 </a> 
