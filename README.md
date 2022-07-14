@@ -57,12 +57,12 @@ I would love to have more time to share more about my professional skills.
 
 ## 💻 Frontend
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" title="CSS 3" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" title="CSS 3" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -110,7 +110,7 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="Postgre Sql" title="Postgre Sql" width="85"/>
+    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="85"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -118,7 +118,7 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" title="MongoDb" width="125"/>
+    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="125"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
