@@ -43,7 +43,7 @@ I would love to have more time to share more about my professional skills.
   </a> 
 </p>
 
-## 💻 Front-end
+## 💻 Frontend
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
   <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" width="50" height="50"/>
@@ -63,8 +63,9 @@ I would love to have more time to share more about my professional skills.
 <br>
 <br> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a> 
+  <img src="https://kleberux.com/imgs/vue.svg"" alt="Vue.js" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a> 
@@ -76,7 +77,7 @@ I would love to have more time to share more about my professional skills.
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
-## ☁️ Back-end
+## ☁️ Backend
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
