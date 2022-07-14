@@ -14,6 +14,11 @@ I would love to have more time to share more about my professional skills.
 
 ### During my time off I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 <br>
+If would you like to learn more about me, or even thought just wnat to connect, please feel free to connect.
+https://kleberux.com/
+https://www.linkedin.com/in/klebersousa/
+😉
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev)
 <br><br>
