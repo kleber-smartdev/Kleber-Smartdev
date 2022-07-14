@@ -23,7 +23,7 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe-xd.svg" alt="xd" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
