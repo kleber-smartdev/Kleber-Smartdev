@@ -27,7 +27,7 @@ Kleber<br>
 
 
 ## 📱 UX / UI Designer
-``` #Figma #XD #Invision #Sketch #Illustrator #Photoshop #AfterEffects #Premiere 
+### #Figma #XD #Invision #Sketch #Illustrator #Photoshop #AfterEffects #Premiere 
 <p align="left"> 
   <a href="https://figma.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" height="50"/>
