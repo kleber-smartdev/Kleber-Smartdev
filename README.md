@@ -22,23 +22,23 @@ I would love to have more time to share more about my professional skills.
 ## 📱 UX / UI Designer
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.invisionapp.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/invision.svg" alt="Invision" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/invision.svg" alt="Invision" title="Invision" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.sketch.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/sketch.svg" alt="Sketch" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/sketch.svg" alt="Sketch" title="Sketch" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
