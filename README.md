@@ -11,8 +11,8 @@ I truly believe that our differences contribute to better solutions because we c
 <br>
 ### 👨‍🎓 In February of 2022, I graduated from BrainStation.
 The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more solid foundations of <strong>“The Design of Everyday Thing”</strong>. I also have a Bachelor's degree in Social Communication and a Master's degree in Business Communication.
-During my time off, I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 <br>
+### During my time off, I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 <br>
 If you want to learn more about me or want to connect, please feel free to join!<br>
 https://www.linkedin.com/in/klebersousa/<br>
