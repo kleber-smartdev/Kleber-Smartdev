@@ -100,6 +100,10 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" title="Element UI" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://vuetifyjs.com" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/vuetify.svg" alt="Vuetify" title="Vuetify" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/>
   </a> 
