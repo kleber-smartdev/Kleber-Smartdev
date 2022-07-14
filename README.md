@@ -26,6 +26,10 @@ I would love to have more time to share more about my professional skills.
     <img src="https://kleberux.com/imgs/adobe-xd.svg" alt="xd" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.invisionapp.com" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/invision.svg" alt="Invision" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-illustrator.svg" alt="Illustrator" width="50" height="50"/>
   </a>
