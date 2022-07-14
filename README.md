@@ -72,7 +72,7 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" title="CSS 3" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/java-script.svg" alt="JavaScript" title="JavaScript" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp; 
