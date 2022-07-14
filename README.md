@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working for B4B as a UX / UI Designer and Jr. Frontend Developer using tools, languages, and methodologies such as
+I'm currently working for B4B as a UX / UI Designer and Jr. Frontend Developer using tools, languages, and methodologies such as<br>
 Figma | Adobe XD | Sketch | Wireframe | Prototype | Mockup | HTML | CSS | Element UI | Bootstrap | Vue.js | React | JavaScript | TypeScript.
 
 🚀🚀🚀
