@@ -5,7 +5,8 @@ Figma | Adobe XD | Sketch | Wireframe | Prototype | Mockup | HTML | CSS | Elemen
 🚀🚀🚀
 
 ### 🥰 I love people’s interactions and how we can do more together.
-I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously. I would love to have more time to share more about my professional skills.
+I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously.<br>
+I would love to have more time to share more about my professional skills.
 
 ### 🔥 I have been working in the digital industry for more than a decade.
 In 2009, I started to work with multicultural teams across the globe. In 2013 I had a short business program in Toronto, Canada.<br>
