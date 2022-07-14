@@ -90,8 +90,7 @@ I would love to have more time to share more about my professional skills.
 
 ## ☁️ 📬 Backend & Deploy
 <p align="left"> 
- 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="Postgre Sql" width="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -111,7 +110,6 @@ I would love to have more time to share more about my professional skills.
     <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="100"/>
   </a>
