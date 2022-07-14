@@ -19,7 +19,6 @@ I would love to have more time to share more about my professional skills.
 ## 📱 UX / UI Designer
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/kleber-smartdev/kleber-smartdev/43274a92c460cb9960e2eacd50de86a371e0a3bd/figma.svg" alt="Figma" width="50" height="50"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
