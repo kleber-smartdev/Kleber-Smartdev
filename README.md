@@ -27,7 +27,7 @@ Kleber<br>
 
 
 ## 📱 UX / UI Designer
-```Figma``` ```XD``` ### #Figma #XD #Invision #Sketch #Illustrator #Photoshop #AfterEffects #Premiere 
+```Figma``` ```XD``` ```Invision``` ```Sketch``` ```Illustrator``` ```Photoshop``` ```AfterEffects``` ```Premiere``` 
 <p align="left"> 
   <a href="https://figma.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" height="50"/>
@@ -60,12 +60,11 @@ Kleber<br>
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-prem.svg" alt="Adobe Premiere" title="Adobe Premiere" height="50"/>
   </a>
-  <br>
-  #Figma #XD #Invision #Sketch #Illustrator #Photoshop #AfterEffects #Premiere
 </p>
 <br>
 
 ## 💻 Frontend
+```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue``` ```Angular``` ```Bootstrap``` ```Element``` ```Vuetify``` ```Tailwind```
 <p align="left">
   <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="50"/>
@@ -110,12 +109,11 @@ Kleber<br>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/>
   </a>
-   <br>
-  #HTML #CSS #JavaScript #TypeScript #React #Vue #Angular #Bootstrap #Element #Vuetify #Tailwind
 </p>
 <br>
 
 ## ☁️ 📬 Backend & Deploy
+```Node``` ```PHP``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" title="Node Js" width="100"/>
@@ -144,6 +142,4 @@ Kleber<br>
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="125"/>
   </a>
-   <br>
-  #Node #PHP #Postgre #MySql #MariaDB #SQL #Mongo #Heroku #Firebase
 </p>
