@@ -84,7 +84,7 @@ I would love to have more time to share more about my professional skills.
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/tailwind-css.png" alt="Tailwind CSS" height="75" />
+  <img src="https://kleberux.com/imgs/tailwind-css.png" alt="Tailwind CSS" width="150"/>
 </a> 
 </p>
 
