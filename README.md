@@ -12,8 +12,8 @@ When I returned to São Paulo, Brazil resuming my digital career there; I starte
 I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously.<br>
 I would love to have more time to share more about my professional skills.
 
-### During my time off I love to spend time doing... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
-<br><br>
+### During my time off I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact)
 <br><br>
