@@ -60,7 +60,7 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/adobe-prem.svg" alt="Adobe Premiere" title="Adobe Premiere" height="50"/>
   </a>
   <br>
-  #Figma #AdobeXD #Invision
+  #Figma #XD #Invision #Sketch #Illustrator #Photoshop #AfterEffects #Premiere
 </p>
 <br>
 
@@ -108,7 +108,9 @@ Kleber<br>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/>
-  </a> 
+  </a>
+   <br>
+  #HTML #CSS #JavaScript #TypeScript #React #Vue #Angular #Bootstrap #Element #Vuetify #Tailwind
 </p>
 <br>
 
@@ -140,5 +142,7 @@ Kleber<br>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="125"/>
-  </a> 
+  </a>
+   <br>
+  #Node #PHP #Postgre #MySql #MariaDB #SQL #Mongo #Heroku #Firebase
 </p>
