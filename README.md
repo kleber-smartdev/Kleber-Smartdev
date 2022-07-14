@@ -15,7 +15,7 @@ I would love to have more time to share more about my professional skills.
 ### During my time off I love to spend time doing... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact)
-
+<br>
 ## 📱 UX / UI Designer
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -42,7 +42,7 @@ I would love to have more time to share more about my professional skills.
     <img src="https://kleberux.com/imgs/adobe-photoshop.svg" alt="Photoshop" width="50" height="50"/>
   </a> 
 </p>
-
+<br>
 ## 💻 Frontend
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -87,7 +87,7 @@ I would love to have more time to share more about my professional skills.
     <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" width="50" height="50"/>
   </a> 
 </p>
-
+<br>
 ## ☁️ 📬 Backend & Deploy
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
