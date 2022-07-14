@@ -46,12 +46,13 @@ I would love to have more time to share more about my professional skills.
 ## 💻 Front-end
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/css-3.svg" alt="css3" width="50" height="50"/>
+  <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" width="50" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" width="50" height="50"/>
 </a>
+&nbsp;&nbsp;&nbsp;
   
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
