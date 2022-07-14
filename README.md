@@ -46,7 +46,7 @@ I would love to have more time to share more about my professional skills.
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-after.svg" alt="Adobe After Effects" title="Adobe After Effects" height="55"/>
+    <img src="https://kleberux.com/imgs/adobe-after.svg" alt="Adobe After Effects" title="Adobe After Effects" height="50"/>
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
