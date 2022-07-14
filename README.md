@@ -107,7 +107,7 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/postgre-sql" alt="Postgre Sql" width="50"/>
+    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="Postgre Sql" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
