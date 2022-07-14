@@ -26,7 +26,7 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-xd.svg" alt="xd" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.invisionapp.com" target="_blank" rel="noreferrer">
@@ -38,11 +38,19 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-illustrator.svg" alt="Illustrator" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-photoshop.svg" alt="Photoshop" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe-photo.svg" alt="Adobe Photoshop" width="50" height="50"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/adobe-after.svg" alt="Adobe After Effects" width="50" height="50"/>
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/adobe-prem.svg" alt="Adobe Premiere" width="50" height="50"/>
   </a> 
 </p>
 <br>
