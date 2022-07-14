@@ -14,7 +14,7 @@ I would love to have more time to share more about my professional skills.
 
 ### During my time off I love to spend time doing... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact&theme=tokyonight&custom_title=Technologies)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact&theme=dark&custom_title=Technologies)
 
 ## ✨ UX / UI Designer ✨
 <p align="left"> 
