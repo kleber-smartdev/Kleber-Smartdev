@@ -45,57 +45,75 @@ I would love to have more time to share more about my professional skills.
 
 ## 💻 Frontend
 <p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/java-script.svg" alt="JavaScript" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp; 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/type-script.svg" alt="TypeScript" width="50" height="50"/>
-</a>
-<br>
-<br>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://kleberux.com/imgs/react.svg" alt="React" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/vue.svg" alt="Vue.js" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/angular.svg" alt="Angular" width="50" height="50"/>
-</a>
-<br>
-<br>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://element.eleme.io/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" width="50" height="50"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" width="50" height="50"/>
-</a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/java-script.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/type-script.svg" alt="TypeScript" width="50" height="50"/>
+  </a>
+  <br>
+  <br>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://kleberux.com/imgs/react.svg" alt="React" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/vue.svg" alt="Vue.js" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/angular.svg" alt="Angular" width="50" height="50"/>
+  </a>
+  <br>
+  <br>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://element.eleme.io/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" width="50" height="50"/>
+  </a> 
 </p>
 
 ## ☁️ 📬 Backend & Deploy
 <p align="left"> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" width="50" height="50"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://kleberux.com/imgs/php.svg" alt="PHP" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<p align="left"> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a> 
 </p>
