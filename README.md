@@ -22,11 +22,11 @@ I would love to have more time to share more about my professional skills.
 ## 📱 UX / UI Designer
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" width="50" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.invisionapp.com" target="_blank" rel="noreferrer">
