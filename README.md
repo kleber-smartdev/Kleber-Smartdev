@@ -103,17 +103,18 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" width="50" height="50"/> </a>
+    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" width="50"/>
+  </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/postgre-sql" alt="Postgre Sql" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/postgre-sql" alt="Postgre Sql" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="50"/>
   </a> 
 </p>
