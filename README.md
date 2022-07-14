@@ -72,10 +72,20 @@ I would love to have more time to share more about my professional skills.
 &nbsp;&nbsp;&nbsp;
 <a href="https://angular.io" target="_blank" rel="noreferrer">
   <img src="https://kleberux.com/imgs/angular.svg" alt="Angular" width="50" height="50"/>
+</a>
+<br>
+<br>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://element.eleme.io/" target="_blank" rel="noreferrer">
+  <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://kleberux.com/imgs/tailwind-css.svg" alt="tailwind" width="50" height="50"/>
 </a> 
- 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 
 ## ☁️ Backend
