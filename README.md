@@ -108,7 +108,7 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" width="125"/>
+    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" width="85"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
