@@ -58,7 +58,8 @@ Kleber<br>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-prem.svg" alt="Adobe Premiere" title="Adobe Premiere" height="50"/>
-  </a> 
+  </a>
+  #Figma #AdobeXD #Invision
 </p>
 <br>
 
