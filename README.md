@@ -16,6 +16,7 @@ I would love to have more time to share more about my professional skills.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact)
 <br>
+
 ## 📱 UX / UI Designer
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -43,6 +44,7 @@ I would love to have more time to share more about my professional skills.
   </a> 
 </p>
 <br>
+
 ## 💻 Frontend
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -88,6 +90,7 @@ I would love to have more time to share more about my professional skills.
   </a> 
 </p>
 <br>
+
 ## ☁️ 📬 Backend & Deploy
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
