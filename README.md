@@ -31,7 +31,7 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/photoshop.svg" alt="Photoshop" width="60" height="60"/>
+    <img src="https://kleberux.com/imgs/adobe-photoshop.svg" alt="Photoshop" width="50" height="50"/>
   </a> 
 </p>
 
