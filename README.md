@@ -4,12 +4,10 @@ My name is Kleber, and I'm currently working as a UX / UI Designer and Jr. Front
 🚀🚀🚀
 <br>
 ### 🔥 I have been working in the digital industry for more than a decade.
-In 2009, I started to work with multicultural teams across the globe. In 2013 I had a short business program in Toronto, Canada.<br>
-When I returned to São Paulo, Brazil resuming my digital career there; I started to think about immigrating to Canada for better opportunities. In 2016 I moved to Vancouver, Canada, where I have been developing my skills.
+In 2009, I started to work with multicultural teams across the globe. In 2013 I had a short business program in Toronto, Canada. When I returned to São Paulo, Brazil resuming my digital career there; I started to think about immigrating to Canada for better opportunities. In 2016 I moved to Vancouver, Canada, where I have been developing my skills.
 
 ### 🥰 I love people’s interactions and how we can do more together.
-I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously.<br>
-I would love to have more time to share more about my professional skills.
+I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously. I would love to have more time to share more about my professional skills.
 
 ### 👨‍🎓 In February of 2022, I graduated from BrainStation.
 The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more solid foundations of <strong>“The Design of Everyday Thing”</strong>. I also have a Bachelor's degree in Social Communication and a Master's degree in Business Communication.
