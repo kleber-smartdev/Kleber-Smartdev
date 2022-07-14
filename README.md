@@ -10,7 +10,7 @@ In 2009, I started to work with multicultural teams across the globe. In 2013 I 
 I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously. I would love to have more time to share more about my professional skills.
 <br>
 ### 👨‍🎓 In February of 2022, I graduated from BrainStation.
-The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more solid foundations of <strong>“The Design of Everyday Thing”</strong>. I also have a Bachelor's degree in Social Communication and a Master's degree in Business Communication.
+The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more solid foundations of <strong>“The Design of Everyday Thing”</strong>. I also have a <strong>Bachelor's degree in Social Communication</strong>, and a <strong>Master's degree in Business Communication</strong>.
 <br>
 ### During my time off, I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 <br>
