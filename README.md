@@ -114,7 +114,7 @@ I would love to have more time to share more about my professional skills.
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" width="125"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <br>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="125"/>
   </a>
