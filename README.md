@@ -91,30 +91,30 @@ I would love to have more time to share more about my professional skills.
 ## ☁️ 📬 Backend & Deploy
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" width="50" height="50"/>
+    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" width="150"/>
+    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" width="150"/>
+    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="Postgre Sql" width="150"/>
+    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="Postgre Sql" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="150"/>
+    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="150"/>
+    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="100"/>
   </a> 
 </p>
