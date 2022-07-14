@@ -15,7 +15,7 @@ The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more s
 ### During my time off, I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 <br>
 If you want to learn more about me or want to connect, please feel free to join!<br>
-https://www.linkedin.com/in/klebersousa<br>
+https://linkedin.com/in/klebersousa<br>
 https://kleberux.com<br>
 Kleber<br>
 😉
@@ -28,31 +28,31 @@ Kleber<br>
 
 ## 📱 UX / UI Designer
 <p align="left"> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://figma.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+  <a href="https://adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.invisionapp.com" target="_blank" rel="noreferrer">
+  <a href="https://invisionapp.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/invision.svg" alt="Invision" title="Invision" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.sketch.com" target="_blank" rel="noreferrer">
+  <a href="https://sketch.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/sketch.svg" alt="Sketch" title="Sketch" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
+  <a href="https://adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
+  <a href="https://adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-photo.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height="55"/>
   </a>
    &nbsp;&nbsp;&nbsp;
-  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
+  <a href="https://adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/adobe-after.svg" alt="Adobe After Effects" title="Adobe After Effects" height="50"/>
   </a>
    &nbsp;&nbsp;&nbsp;
@@ -64,11 +64,11 @@ Kleber<br>
 
 ## 💻 Frontend
 <p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+  <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+  <a href="https://w3schools.com/css" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" title="CSS 3" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -76,11 +76,11 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/java-script.svg" alt="JavaScript" title="JavaScript" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/type-script.svg" alt="TypeScript" title="TypeScript" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
   <img src="https://kleberux.com/imgs/react.svg" alt="React" title="React" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -96,11 +96,11 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://element.eleme.io/" target="_blank" rel="noreferrer">
+  <a href="https://element.eleme.io" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" title="Element UI" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/>
   </a> 
 </p>
@@ -112,19 +112,19 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" title="Node Js" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+  <a href="https://php.net" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="80"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="85"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <a href="https://mysql.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="85"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="125"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -132,7 +132,7 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" title="Heroku" width="125"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="125"/>
   </a> 
 </p>
