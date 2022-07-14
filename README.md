@@ -12,7 +12,7 @@ I truly believe that our differences contribute to better solutions because we c
 I would love to have more time to share more about my professional skills.
 
 ### 👨‍🎓 In February of 2022, I graduated from BrainStation in the User Experience (UX) Bootcamp Program.
-It wasn't easy! However, I learned more solid foundations of “The Design of Everyday Thing.” I also have a Bachelor's degree in Social Communication and a Master's degree in Business Communication.
+It wasn't easy! However, I learned more solid foundations of <strong>“The Design of Everyday Thing”</strong>. I also have a Bachelor's degree in Social Communication and a Master's degree in Business Communication.
 
 ### During my time off I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 If would you like to learn more about me, or even thought just want to connect, please feel free to connect!<br>
