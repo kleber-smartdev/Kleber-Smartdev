@@ -14,8 +14,8 @@ I would love to have more time to share more about my professional skills.
 
 ### During my time off I love to spend with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 If would you like to learn more about me, or even thought just want to connect, please feel free to connect!<br>
-https://kleberux.com/<br>
 https://www.linkedin.com/in/klebersousa/<br>
+https://kleberux.com/<br>
 😉
 <br>
 <br>
