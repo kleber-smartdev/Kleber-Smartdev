@@ -91,7 +91,7 @@ I would love to have more time to share more about my professional skills.
 ## ☁️ 📬 Backend & Deploy
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" width="85"/>
+    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
