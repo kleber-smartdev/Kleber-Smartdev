@@ -1,6 +1,5 @@
 ### Hi there! 👋
-I'm currently working as a UX / UI Designer and Jr. Frontend Developer using tools, languages, and methodologies such as<br>
-Figma | Adobe XD | Sketch | Wireframe | Prototype | Mockup | HTML | CSS | Element UI | Bootstrap | Vue.js | React | JavaScript | TypeScript.
+My name is Kleber, and I'm currently working as a UX / UI Designer and Jr. Frontend Developer using tools, languages, and methodologies such as Figma | Adobe XD | Sketch | Wireframe | Prototype | Mockup | HTML | CSS | Element UI | Bootstrap | Vue.js | React | JavaScript | TypeScript.
 <br>
 🚀🚀🚀
 <br>
@@ -16,6 +15,7 @@ I would love to have more time to share more about my professional skills.
 If would you like to learn more about me, or even thought just want to connect, please feel free to connect!<br>
 https://www.linkedin.com/in/klebersousa/<br>
 https://kleberux.com/<br>
+Kleber<br>
 😉
 <br>
 <br>
