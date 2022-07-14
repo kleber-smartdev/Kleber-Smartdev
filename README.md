@@ -61,16 +61,17 @@ I would love to have more time to share more about my professional skills.
   <img src="https://kleberux.com/imgs/type-script.svg" alt="TypeScript" width="50" height="50"/>
 </a>
 <br>
-<br> 
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/vue.svg"" alt="Vue.js" width="50" height="50"/>
+<br>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://kleberux.com/imgs/react.svg" alt="React" width="50" height="50"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a> 
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://kleberux.com/imgs/vue.svg" alt="Vue.js" width="50" height="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://angular.io" target="_blank" rel="noreferrer">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src="https://kleberux.com/imgs/angular.svg" alt="Angular" width="50" height="50"/>
 </a> 
  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
