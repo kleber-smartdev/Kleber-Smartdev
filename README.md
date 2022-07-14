@@ -72,8 +72,7 @@ I would love to have more time to share more about my professional skills.
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/type-script.svg" alt="TypeScript" width="50" height="50"/>
   </a>
-  <br>
-  <br>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://kleberux.com/imgs/react.svg" alt="React" width="50" height="50"/>
   </a>
@@ -85,8 +84,7 @@ I would love to have more time to share more about my professional skills.
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/angular.svg" alt="Angular" width="50" height="50"/>
   </a>
-  <br>
-  <br>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" width="50" height="50"/>
   </a>
@@ -122,7 +120,7 @@ I would love to have more time to share more about my professional skills.
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/mongo-db.svg" alt="MongoDb" width="125"/>
   </a>
-  <br>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" width="125"/>
   </a>
