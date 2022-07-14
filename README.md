@@ -115,6 +115,6 @@ I would love to have more time to share more about my professional skills.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="50"/>
+    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" width="150"/>
   </a> 
 </p>
