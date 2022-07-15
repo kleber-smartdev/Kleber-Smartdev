@@ -26,7 +26,6 @@ Kleber<br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-<br>
 
 ## 📱 UX / UI Designer
 ```Figma``` ```XD``` ```Invision``` ```Sketch``` ```Illustrator``` ```Photoshop``` ```AfterEffects``` ```Premiere``` 
