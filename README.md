@@ -22,7 +22,7 @@ Kleber<br>
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&theme=dark)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&theme=dark"/>
 <br><br>
 
 
