@@ -123,34 +123,34 @@ Kleber<br>
 ```Node``` ```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" title="Node Js" width="100"/>
+    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" title="Node Js" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="80"/>
+    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="30"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" height="60"/>
+    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="85"/>
+    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="85"/>
+    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="125"/>
+    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" title="Heroku" width="125"/>
+    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" title="Heroku" width="55"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="125"/>
+    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="55"/>
   </a>
 </p>
