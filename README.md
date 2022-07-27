@@ -65,7 +65,7 @@ Kleber<br>
 <br>
 
 ## 💻 Frontend
-```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue``` ```Angular``` ```Bootstrap``` ```Element``` ```Vuetify``` ```Tailwind```
+```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue``` ```Angular``` ```Bootstrap```  ```Django``` ```Element``` ```Vuetify``` ```Tailwind```
 <p align="left">
   <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="50"/>
@@ -99,6 +99,10 @@ Kleber<br>
     <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://docs.djangoproject.com" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/django.svg" alt="Django" title="Django" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://element.eleme.io" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" title="Element UI" height="50"/>
   </a>
@@ -114,7 +118,7 @@ Kleber<br>
 <br>
 
 ## ☁️ 📬 Backend & Deploy
-```Node``` ```PHP``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
+```Node``` ```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" title="Node Js" width="100"/>
@@ -122,6 +126,10 @@ Kleber<br>
   &nbsp;&nbsp;&nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="80"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/python" alt="Python" title="Python" height="80"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
