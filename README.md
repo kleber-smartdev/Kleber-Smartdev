@@ -37,7 +37,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" height="40"/>
+    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://invisionapp.com" target="_blank" rel="noreferrer">
@@ -49,11 +49,11 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height="40"/>
+    <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-photo.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height="40"/>
+    <img src="https://kleberux.com/imgs/adobe-photo.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height="35"/>
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
@@ -70,51 +70,51 @@ Kleber<br>
 ```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue``` ```Angular``` ```Bootstrap```  ```Django``` ```Element``` ```Vuetify``` ```Tailwind```
 <p align="left">
   <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="50"/>
+    <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://w3schools.com/css" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" title="CSS 3" height="50"/>
+    <img src="https://kleberux.com/imgs/css-3.svg" alt="CSS 3" title="CSS 3" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/java-script.svg" alt="JavaScript" title="JavaScript" height="50"/>
+    <img src="https://kleberux.com/imgs/java-script.svg" alt="JavaScript" title="JavaScript" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp; 
   <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/type-script.svg" alt="TypeScript" title="TypeScript" height="50"/>
+    <img src="https://kleberux.com/imgs/type-script.svg" alt="TypeScript" title="TypeScript" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-  <img src="https://kleberux.com/imgs/react.svg" alt="React" title="React" height="50"/>
+  <img src="https://kleberux.com/imgs/react.svg" alt="React" title="React" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/vue.svg" alt="Vue.js" title="Vue.js" height="50"/>
+    <img src="https://kleberux.com/imgs/vue.svg" alt="Vue.js" title="Vue.js" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/angular.svg" alt="Angular" title="Angular" height="50"/>
+    <img src="https://kleberux.com/imgs/angular.svg" alt="Angular" title="Angular" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="50"/>
+    <img src="https://kleberux.com/imgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://docs.djangoproject.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/django.svg" alt="Django" title="Django" height="50"/>
+    <img src="https://kleberux.com/imgs/django.svg" alt="Django" title="Django" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://element.eleme.io" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" title="Element UI" height="50"/>
+    <img src="https://kleberux.com/imgs/element-ui.svg" alt="Element UI" title="Element UI" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://vuetifyjs.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/vuetify.svg" alt="Vuetify" title="Vuetify" height="50"/>
+    <img src="https://kleberux.com/imgs/vuetify.svg" alt="Vuetify" title="Vuetify" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="50"/>
+    <img src="https://kleberux.com/imgs/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="35"/>
   </a>
 </p>
 <br>
