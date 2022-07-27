@@ -127,7 +127,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="30"/>
+    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
