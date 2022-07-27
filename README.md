@@ -131,7 +131,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" width="65"/>
+    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
@@ -143,7 +143,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="75"/>
+    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="95"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
