@@ -127,30 +127,30 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="75"/>
+    <img src="https://kleberux.com/imgs/php.svg" alt="PHP" title="PHP" width="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" height="35"/>
+    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" width="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="45"/>
+    <img src="https://kleberux.com/imgs/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="45"/>
+    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="55"/>
+    <img src="https://kleberux.com/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" title="Heroku" width="55"/>
+    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" title="Heroku" width="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="55"/>
+    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="75"/>
   </a>
 </p>
