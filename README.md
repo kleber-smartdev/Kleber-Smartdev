@@ -123,7 +123,7 @@ Kleber<br>
 ```Node``` ```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" title="Node Js" width="45"/>
+    <img src="https://kleberux.com/imgs/node-js.svg" alt="Node Js" title="Node Js" width="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
