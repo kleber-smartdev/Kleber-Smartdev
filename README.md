@@ -129,7 +129,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" height="80"/>
+    <img src="https://kleberux.com/imgs/python.svg" alt="Python" title="Python" height="70"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
