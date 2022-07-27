@@ -33,35 +33,35 @@ Kleber<br>
 ```Figma``` ```XD``` ```Invision``` ```Sketch``` ```Illustrator``` ```Photoshop``` ```AfterEffects``` ```Premiere``` 
 <p align="left"> 
   <a href="https://figma.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" height="50"/>
+    <img src="https://kleberux.com/imgs/figma.svg" alt="Figma" title="Figma" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" height="55"/>
+    <img src="https://kleberux.com/imgs/adobe_xd.svg" alt="Adobe XD" title="Adobe XD" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://invisionapp.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/invision.svg" alt="Invision" title="Invision" height="50"/>
+    <img src="https://kleberux.com/imgs/invision.svg" alt="Invision" title="Invision" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sketch.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/sketch.svg" alt="Sketch" title="Sketch" height="50"/>
+    <img src="https://kleberux.com/imgs/sketch.svg" alt="Sketch" title="Sketch" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height="55"/>
+    <img src="https://kleberux.com/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Adobe Illustrator" height="40"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-photo.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height="55"/>
+    <img src="https://kleberux.com/imgs/adobe-photo.svg" alt="Adobe Photoshop" title="Adobe Photoshop" height="40"/>
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-after.svg" alt="Adobe After Effects" title="Adobe After Effects" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe-after.svg" alt="Adobe After Effects" title="Adobe After Effects" height="35"/>
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/adobe-prem.svg" alt="Adobe Premiere" title="Adobe Premiere" height="50"/>
+    <img src="https://kleberux.com/imgs/adobe-prem.svg" alt="Adobe Premiere" title="Adobe Premiere" height="35"/>
   </a>
 </p>
 <br>
