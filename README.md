@@ -139,7 +139,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="65"/>
+    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="85"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mongodb.com" target="_blank" rel="noreferrer">
@@ -147,10 +147,10 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" title="Heroku" width="75"/>
+    <img src="https://kleberux.com/imgs/heroku.svg" alt="Heroku" title="Heroku" width="95"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="75"/>
+    <img src="https://kleberux.com/imgs/firebase.svg" alt="Firebase" title="Firebase" width="95"/>
   </a>
 </p>
