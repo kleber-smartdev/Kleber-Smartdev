@@ -139,7 +139,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="85"/>
+    <img src="https://kleberux.com/imgs/my-sql.svg" alt="mySql" title="mySql" width="80"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mongodb.com" target="_blank" rel="noreferrer">
