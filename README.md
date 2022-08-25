@@ -67,7 +67,7 @@ Kleber<br>
 <br>
 
 ## 💻 Frontend
-```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue``` ```Angular``` ```Bootstrap```  ```Django``` ```Element``` ```Vuetify``` ```Tailwind```
+```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue.js``` ```NEXT.js``` ```Angular``` ```Bootstrap```  ```Django``` ```Element``` ```Vuetify``` ```Tailwind```
 <p align="left">
   <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="35"/>
@@ -91,6 +91,10 @@ Kleber<br>
   &nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://kleberux.com/imgs/vue.svg" alt="Vue.js" title="Vue.js" height="35"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://kleberux.com/imgs/Nextjs-logo.svg" alt="NEXT.js" title="NEXT.js" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://angular.io" target="_blank" rel="noreferrer">
