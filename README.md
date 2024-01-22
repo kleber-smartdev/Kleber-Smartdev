@@ -44,23 +44,23 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sketch.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/sketch.svg" alt="Sketch" title="Sketch" height="35"/>
+    <img src="https://www.svgrepo.com/show/354349/sketch.svg" alt="Sketch" title="Sketch" height="35"/> Sketch
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-illus.svg" alt="Illustrator" title="Illustrator" height="35"/>
+    <img src="https://www.svgrepo.com/show/41688/illustrator.svg" alt="Illustrator" title="Illustrator" height="35"/> Illustrator
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-photo.svg" alt="Photoshop" title="Photoshop" height="35"/>
+    <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="Photoshop" title="Photoshop" height="35"/> Photoshop
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-after.svg" alt="After Effects" title="After Effects" height="35"/>
+    <img src="https://www.svgrepo.com/show/29736/after-effects.svg" alt="After Effects" title="After Effects" height="35"/> After Effects
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-prem.svg" alt="Premiere" title="Premiere" height="35"/>
+    <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" alt="Premiere" title="Premiere" height="35"/> Premiere
   </a>
 </p>
 <br>
