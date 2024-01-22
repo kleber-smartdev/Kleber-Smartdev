@@ -16,7 +16,6 @@ The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more s
 <br>
 If you want to learn more about me or want to connect, please feel free to join!<br>
 https://linkedin.com/in/klebersousa<br>
-https://kbsousa.com<br>
 Kleber<br>
 😉
 <br>
