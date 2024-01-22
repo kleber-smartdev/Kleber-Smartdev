@@ -92,14 +92,6 @@ Kleber<br>
     <img src="https://kbsousa.com/assets/git-images/imgs/vue.svg" alt="Vue.js" title="Vue.js" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/Nextjs-logo.svg" alt="NEXT.js" title="NEXT.js" height="35"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/angular.svg" alt="Angular" title="Angular" height="35"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://kbsousa.com/assets/git-images/imgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="35"/>
   </a>
