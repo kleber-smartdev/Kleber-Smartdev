@@ -40,7 +40,7 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://invisionapp.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/invision.svg" alt="Invision" title="Invision" height="35"/>
+    <img src="https://www.svgrepo.com/show/416512/creative-designer-invision.svg" alt="Invision" title="Invision" height="35"/> Invision
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sketch.com" target="_blank" rel="noreferrer">
