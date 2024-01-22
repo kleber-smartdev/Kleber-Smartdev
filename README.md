@@ -32,7 +32,7 @@ Kleber<br>
 ```Figma``` ```XD``` ```Invision``` ```Sketch``` ```Illustrator``` ```Photoshop``` ```AfterEffects``` ```Premiere``` 
 <p align="left"> 
   <a href="https://figma.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" title="Figma" height="35"/>
+    <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="Figma" title="Figma" height="35"/>Figma
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/products/xd.html" target="_blank" rel="noreferrer">
