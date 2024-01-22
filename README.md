@@ -69,15 +69,15 @@ Kleber<br>
 ```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue.js``` ```Bootstrap```  ```Tailwind```
 <p align="left">
   <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="35"/>
+    <img src="https://www.svgrepo.com/show/373669/html.svg" alt="HTML 5" title="HTML 5" height="35"/> HTML 5
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://w3schools.com/css" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/css-3.svg" alt="CSS 3" title="CSS 3" height="35"/>
+    <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS 3" title="CSS 3" height="35"/> CSS 3
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/java-script.svg" alt="JavaScript" title="JavaScript" height="35"/>
+    <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" title="JavaScript" height="35"/> JavaScript
   </a>
   &nbsp;&nbsp;&nbsp; 
   <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
