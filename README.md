@@ -66,7 +66,7 @@ Kleber<br>
 <br>
 
 ## 💻 Frontend
-```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue.js``` ```NEXT.js``` ```Angular``` ```Bootstrap```  ```Django``` ```Element``` ```Vuetify``` ```Tailwind```
+```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue.js``` ```Bootstrap```  ```Tailwind```
 <p align="left">
   <a href="https://w3schools.com/html" target="_blank" rel="noreferrer">
     <img src="https://kbsousa.com/assets/git-images/imgs/html-5.svg" alt="HTML 5" title="HTML 5" height="35"/>
