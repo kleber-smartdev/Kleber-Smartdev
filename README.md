@@ -48,19 +48,19 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-illus.svg" alt="Adobe Illustrator" title="Illustrator" height="35"/>
+    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-illus.svg" alt="Illustrator" title="Illustrator" height="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-photo.svg" alt="Adobe Photoshop" title="Photoshop" height="35"/>
+    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-photo.svg" alt="Photoshop" title="Photoshop" height="35"/>
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-after.svg" alt="Adobe After Effects" title="After Effects" height="35"/>
+    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-after.svg" alt="After Effects" title="After Effects" height="35"/>
   </a>
    &nbsp;&nbsp;&nbsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-prem.svg" alt="Adobe Premiere" title="Premiere" height="35"/>
+    <img src="https://kbsousa.com/assets/git-images/imgs/adobe-prem.svg" alt="Premiere" title="Premiere" height="35"/>
   </a>
 </p>
 <br>
