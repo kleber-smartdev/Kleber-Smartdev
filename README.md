@@ -1,35 +1,36 @@
 ## Hi there! 👋
 My name is Kleber, and I'm currently working as a UX / UI Designer and Frontend Developer using tools, languages, and methodologies such as Figma | Adobe XD | Adobe Photoshop | Sketch | Wireframe | Prototype | Mockup | HTML | CSS | Element UI | Bootstrap | Vue.js | React | NEXT.js | JavaScript | TypeScript | Accessibility  WCAG | Email Marketing | Customer Journey | Automation.
-<br>
+<br />
 🚀🚀🚀
-<br>
+<br />
 ### 🔥 I have worked in the digital industry for over a decade.
 In 2009, I started to work with multicultural teams across the globe. In 2013 I had a short business program in Toronto, Canada. When I returned to São Paulo, Brazil resuming my digital career there; I started to think about immigrating to Canada for better opportunities. So in 2016, I moved to Vancouver, Canada, where I have been developing my skills.
-<br>
+<br />
 ### 🥰 I love people’s interactions and how we can do more together.
 I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously. I would love to have more time to share more about my professional skills.
-<br>
+<br />
 ### 👨‍🎓 In February of 2022, I graduated from BrainStation.
 The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more solid foundations of <strong>“The Design of Everyday Thing”</strong>. I also have a <strong>Bachelor's degree in Social Communication</strong>, and a <strong>Master's degree in Business Communication</strong>.
-<br>
+<br />
 ### During my time off, I love to spend time with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
-<br>
-If you want to learn more about me or want to connect, please feel free to join!<br>
-  <a href="https://figma.com" target="_blank" rel="noreferrer">
+<br />
+If you want to learn more about me or want to connect, please feel free to join!<br />
+  <a href="https://figma.com" target="_blank" rel="noreferrer"><br />
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/> https://linkedin.com/in/klebersousa
   </a>
-
-Kleber<br>
+<br />
+<br />
+Kleber<br />
 😉
-<br>
-<br>
+<br />
+<br />
 <div>
   <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kleber-smartdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleber-smartdev&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-<br>
+<br />
 
 ## 📱 UX / UI Designer
 ```Figma``` ```XD``` ```Invision``` ```Sketch``` ```Illustrator``` ```Photoshop``` ```AfterEffects``` ```Premiere``` 
@@ -68,7 +69,7 @@ Kleber<br>
     <img src="https://www.svgrepo.com/show/303185/premiere-cc-logo.svg" alt="Premiere" title="Premiere" height="35"/> Premiere
   </a>
 </p>
-<br>
+<br />
 
 ## 💻 Frontend
 ```HTML``` ```CSS``` ```JavaScript``` ```TypeScript``` ```React``` ```Vue.js``` ```Bootstrap```  ```Tailwind```
@@ -107,7 +108,7 @@ Kleber<br>
     <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="35"/> Tailwind CSS
   </a>
 </p>
-<br>
+<br />
 
 ## ☁️ 📬 Backend & Deploy
 ```Node``` ```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
