@@ -16,6 +16,7 @@ The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more s
 <br>
 If you want to learn more about me or want to connect, please feel free to join!<br>
 https://linkedin.com/in/klebersousa<br>
+<img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/> https://linkedin.com/in/klebersousa<br>
 Kleber<br>
 😉
 <br>
@@ -93,6 +94,8 @@ Kleber<br>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue.js" title="Vue.js" height="35"/> Vue.js
   </a>
+  <br />
+  <br />
   &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" alt="Bootstrap" title="Bootstrap" height="35"/> Bootstrap
@@ -108,34 +111,34 @@ Kleber<br>
 ```Node``` ```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
 <p align="left"> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/node-js.svg" alt="Node Js" title="Node Js" width="75"/>
+    <img src="" alt="Node Js" title="Node Js" width="75"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/php.svg" alt="PHP" title="PHP" width="65"/>
+    <img src="" alt="PHP" title="PHP" width="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/python.svg" alt="Python" title="Python" width="45"/>
+    <img src="" alt="Python" title="Python" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/postgre-sql.svg" alt="PostgreSQL" title="PostgreSQL" width="65"/>
+    <img src="" alt="PostgreSQL" title="PostgreSQL" width="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/my-sql.svg" alt="mySql" title="mySql" width="80"/>
+    <img src="" alt="mySql" title="mySql" width="80"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/mongo-db.svg" alt="mongoDB" title="mongoDB" width="95"/>
+    <img src="" alt="mongoDB" title="mongoDB" width="95"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/heroku.svg" alt="Heroku" title="Heroku" width="95"/>
+    <img src="" alt="Heroku" title="Heroku" width="95"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/firebase.svg" alt="Firebase" title="Firebase" width="95"/>
+    <img src="" alt="Firebase" title="Firebase" width="95"/>
   </a>
 </p>
