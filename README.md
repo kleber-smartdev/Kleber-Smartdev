@@ -55,6 +55,7 @@ Kleber<br>
     <img src="https://www.svgrepo.com/show/373968/photoshop.svg" alt="Photoshop" title="Photoshop" height="35"/> Photoshop
   </a>
   <br />
+  <br />
    &nbsp;&nbsp;&nbsp;
   <a href="https://adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/29736/after-effects.svg" alt="After Effects" title="After Effects" height="35"/> After Effects
