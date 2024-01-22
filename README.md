@@ -83,23 +83,23 @@ Kleber<br>
   </a>
   &nbsp;&nbsp;&nbsp; 
   <a href="https://typescriptlang.org" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/type-script.svg" alt="TypeScript" title="TypeScript" height="35"/>
+    <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="TypeScript" title="TypeScript" height="35"/> TypeScript
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-  <img src="https://kbsousa.com/assets/git-images/imgs/react.svg" alt="React" title="React" height="35"/>
+  <img src="https://www.svgrepo.com/show/303500/react-1-logo.svg" alt="React" title="React" height="35"/> React
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/vue.svg" alt="Vue.js" title="Vue.js" height="35"/>
+    <img src="https://www.svgrepo.com/show/452130/vue.svg" alt="Vue.js" title="Vue.js" height="35"/> Vue.js
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="35"/>
+    <img src="https://www.svgrepo.com/show/378490/bootstrap-fill.svg" alt="Bootstrap" title="Bootstrap" height="35"/> Bootstrap
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://kbsousa.com/assets/git-images/imgs/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="35"/>
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind CSS" title="Tailwind CSS" height="35"/> Tailwind CSS
   </a>
 </p>
 <br>
