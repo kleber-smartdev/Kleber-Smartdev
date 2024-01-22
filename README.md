@@ -14,9 +14,9 @@ The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more s
 <br />
 ### During my time off, I love to spend time with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
 <br />
-If you want to learn more about me or want to connect, please feel free to join!<br />
-  <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer"><br />
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/><br > https://linkedin.com/in/klebersousa
+If you want to learn more about me or want to connect, please feel free to join!<br /><br />
+  <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/><br >https://linkedin.com/in/klebersousa
   </a>
 <br />
 <br />
