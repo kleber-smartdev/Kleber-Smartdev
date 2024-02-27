@@ -1,19 +1,15 @@
-## Hi there! 👋
-My name is Kleber, and I'm currently working as a UX / UI Designer and Frontend Developer using tools, languages, and methodologies such as Figma | Adobe XD | Adobe Photoshop | Sketch | Wireframe | Prototype | Mockup | HTML | CSS | Element UI | Bootstrap | Vue.js | React | NEXT.js | JavaScript | TypeScript | Accessibility  WCAG | Email Marketing | Customer Journey | Automation.
-<br />
-🚀🚀🚀
-<br />
-### 🔥 I have worked in the digital industry for over a decade.
-In 2009, I started to work with multicultural teams across the globe. In 2013 I had a short business program in Toronto, Canada. When I returned to São Paulo, Brazil resuming my digital career there; I started to think about immigrating to Canada for better opportunities. So in 2016, I moved to Vancouver, Canada, where I have been developing my skills.
-<br />
-### 🥰 I love people’s interactions and how we can do more together.
-I truly believe that our differences contribute to better solutions because we can tackle different angles simultaneously. I would love to have more time to share more about my professional skills.
-<br />
-### 👨‍🎓 In February of 2022, I graduated from BrainStation.
-The User Experience (UX) Bootcamp Program wasn't easy! However, I learned more solid foundations of <strong>“The Design of Everyday Thing”</strong>. I also have a <strong>Bachelor's degree in Social Communication</strong>, and a <strong>Master's degree in Business Communication</strong>.
-<br />
-### During my time off, I love to spend time with... 👨‍👩‍👦 🚵 🎮 🏕️ ✈️
-<br />
+## Hi there!
+<br>
+<br>
+My name is Kleber, I am a Canadian citizen bilingual in English and Portuguese, with over ten years of experience in technology and client-facing roles. I possess a comprehensive background in SaaS platforms, big data, and digital marketing strategies. Developing analytical reporting —including email marketing and transactional, SMS, and social campaigns, developing analytics reporting strategies and solutions. I have demonstrated proficiency in data analysis, SEO, A/B testing, lifecycle campaigns, customer journeys, roadmaps, and personalization, leveraging customer behaviour insights to drive digital campaign success.
+<br>
+<br>
+Significantly, my experience extends to building data pipelines from various data integrations using ETL, REST, SOAP, and APIs, a critical skill for developing data warehouses with 3rd party datasets. My expertise with platforms such as SAP, ERPs, PowerBI, EPMs, SAS, and Salesforce, combined with my technical background and project leadership in global companies' environments, have honed my ability to navigate complex problem spaces and deliver tailored solutions and full-cycle implementations. My data model expertise allows me to understand product patterns through data mining and create data storytelling using interactive reports to communicate those complex concepts and the results of the analyses clearly and effectively to a diverse audience—essential skills for consultancy roles.
+<br>
+<br>
+My notable achievements, including successfully implementing a loyalty program for 1.4 million users and developing segmentation and dashboards to identify upsell and cross-sell opportunities, showcase my capability to lead projects to successful outcomes. These skills, combined with a versatile career spanning technical support, customer service, and consultative roles, equip me with the unique ability to engage with diverse stakeholders effectively, which allowed me to help sales teams close over 50 contracts in 36 months, some of them with over 40 million users on the database.
+<br>
+<br>
 If you want to learn more about me or want to connect, please feel free to join!<br /><br />
   <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/><br >https://linkedin.com/in/klebersousa
