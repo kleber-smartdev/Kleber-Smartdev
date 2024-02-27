@@ -1,9 +1,12 @@
 ## Hi there!
 My name is Kleber, I am a Canadian citizen bilingual in English and Portuguese, with over ten years of experience in technology and client-facing roles. I possess a comprehensive background in SaaS platforms, big data, and digital marketing strategies. Developing analytical reporting —including email marketing and transactional, SMS, and social campaigns, developing analytics reporting strategies and solutions. I have demonstrated proficiency in data analysis, SEO, A/B testing, lifecycle campaigns, customer journeys, roadmaps, and personalization, leveraging customer behaviour insights to drive digital campaign success.
 <br />
+<br />
 Significantly, my experience extends to building data pipelines from various data integrations using ETL, REST, SOAP, and APIs, a critical skill for developing data warehouses with 3rd party datasets. My expertise with platforms such as SAP, ERPs, PowerBI, EPMs, SAS, and Salesforce, combined with my technical background and project leadership in global companies' environments, have honed my ability to navigate complex problem spaces and deliver tailored solutions and full-cycle implementations. My data model expertise allows me to understand product patterns through data mining and create data storytelling using interactive reports to communicate those complex concepts and the results of the analyses clearly and effectively to a diverse audience—essential skills for consultancy roles.
 <br />
+<br />
 My notable achievements, including successfully implementing a loyalty program for 1.4 million users and developing segmentation and dashboards to identify upsell and cross-sell opportunities, showcase my capability to lead projects to successful outcomes. These skills, combined with a versatile career spanning technical support, customer service, and consultative roles, equip me with the unique ability to engage with diverse stakeholders effectively, which allowed me to help sales teams close over 50 contracts in 36 months, some of them with over 40 million users on the database.
+<br />
 <br />
 If you want to learn more about me or want to connect, please feel free to join!<br /><br />
   <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
