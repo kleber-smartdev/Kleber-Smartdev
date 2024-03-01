@@ -113,16 +113,12 @@ Kleber<br />
 ## ☁️ 📬 Backend & Deploy
 ```Node``` ```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
 <p align="left"> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="" alt="Node Js" title="Node Js" width="75"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="" alt="PHP" title="PHP" width="65"/>
+    <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" title="PHP" width="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="" alt="Python" title="Python" width="45"/>
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" title="Python" width="45"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
