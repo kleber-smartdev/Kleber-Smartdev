@@ -16,16 +16,15 @@ My notable achievements include successfully implementing a loyalty program for
 cross-sell opportunities, showcasing my capability to lead projects to successful outcomes. These skills, combined with a versatile career spanning technical support, customer service, and consultative roles, equip me with the unique ability to engage with diverse stakeholders effectively, which allowed me to help sales teams close over 50 contracts in 36 months, some of them with over 40 million users on the database, over 200 million emails sent.
 <br />
 <br />
-
   <a href="https://github.com/kleber-smartdev/UX-Projects-Figma" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="UX Figma Projects" title="UX Figma Projects" height="35"/> UX Figma Projects
   </a>
-  &nbsp;&nbsp;&nbsp;
-
-If you want to learn more about me or want to connect, please feel free to join!<br /><br />
+<br />
+<br />
   <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/><br >https://linkedin.com/in/klebersousa
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/> https://linkedin.com/in/klebersousa
   </a>
+If you want to learn more about me or want to connect, please feel free to join!<br /><br />
 <br />
 <br />
 Kleber<br />
