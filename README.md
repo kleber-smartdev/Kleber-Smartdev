@@ -111,33 +111,21 @@ Kleber<br />
 <br />
 
 ## ☁️ 📬 Backend & Deploy
-```Node``` ```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
+```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
 <p align="left"> 
   <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" title="PHP" width="65"/>
+    <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" title="PHP" width="65"/> PHP
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" title="Python" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer">
-    <img src="" alt="PostgreSQL" title="PostgreSQL" width="65"/>
+    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="Python" title="Python" width="45"/> Python
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="" alt="mySql" title="mySql" width="80"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mongodb.com" target="_blank" rel="noreferrer">
-    <img src="" alt="mongoDB" title="mongoDB" width="95"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="" alt="Heroku" title="Heroku" width="95"/>
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mySql" title="mySql" width="80"/> MySql
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="" alt="Firebase" title="Firebase" width="95"/>
+    <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" title="Firebase" width="95"/> Firebase
   </a>
 </p>
