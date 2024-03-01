@@ -1,11 +1,19 @@
 ## Hi there!
-My name is Kleber, I am a Canadian citizen bilingual in English and Portuguese, with over ten years of experience in technology and client-facing roles. I possess a comprehensive background in SaaS platforms, big data, and digital marketing strategies. Developing analytical reporting —including email marketing and transactional, SMS, and social campaigns, developing analytics reporting strategies and solutions. I have demonstrated proficiency in data analysis, SEO, A/B testing, lifecycle campaigns, customer journeys, roadmaps, and personalization, leveraging customer behaviour insights to drive digital campaign success.
+My name is Kleber. I am a Canadian citizen, bilingual in English and Portuguese, with over ten years of experience in technology and client-facing roles.
 <br />
 <br />
-Significantly, my experience extends to building data pipelines from various data integrations using ETL, REST, SOAP, and APIs, a critical skill for developing data warehouses with 3rd party datasets. My expertise with platforms such as SAP, ERPs, PowerBI, EPMs, SAS, and Salesforce, combined with my technical background and project leadership in global companies' environments, have honed my ability to navigate complex problem spaces and deliver tailored solutions and full-cycle implementations. My data model expertise allows me to understand product patterns through data mining and create data storytelling using interactive reports to communicate those complex concepts and the results of the analyses clearly and effectively to a diverse audience—essential skills for consultancy roles.
+My expertise in On-Premises and SaaS platforms, big data, and digital marketing strategies and developing analytical reporting —including email marketing and transactional, SMS, and social campaigns—complements the critical responsibilities of developing analytics reporting strategies and solutions. I have demonstrated proficiency in data analysis, A/B Tests, Lifecycle Campaigns, Customer Journey, Dynamic Content, and Personalization, leveraging customer behaviour insights to drive digital campaign success.
 <br />
 <br />
-My notable achievements, including successfully implementing a loyalty program for 1.4 million users and developing segmentation and dashboards to identify upsell and cross-sell opportunities, showcase my capability to lead projects to successful outcomes. These skills, combined with a versatile career spanning technical support, customer service, and consultative roles, equip me with the unique ability to engage with diverse stakeholders effectively, which allowed me to help sales teams close over 50 contracts in 36 months, some of them with over 40 million users on the database.
+Significantly, it extends to building data pipelines from various data integrations using manual uploads, ETL, REST, SOAP, and APIs from On-Premise platforms into SaaS platforms such as SAP, ERPs, Power BI, EPMs, HubSpot CRM, SAS, Salesforce, Tableau, and so on aligns with the preferred qualifications for the role.
+<br />
+<br />
+In addition, my technical background and project leadership in global companies' environments have honed my ability to navigate complex problem spaces and deliver tailored solutions and full-cycle implementations. My data model understanding of more than a decade working with it allows me to understand product patterns through data mining and create data storytelling using interactive reports to communicate those complex concepts and the results of the analyses clearly and effectively to a diverse audience.
+<br />
+<br />
+My notable achievements include successfully implementing a loyalty program for
+1.4 million users and developing segmentation and dashboards to identify upsell and
+cross-sell opportunities, showcasing my capability to lead projects to successful outcomes. These skills, combined with a versatile career spanning technical support, customer service, and consultative roles, equip me with the unique ability to engage with diverse stakeholders effectively, which allowed me to help sales teams close over 50 contracts in 36 months, some of them with over 40 million users on the database, over 200 million emails sent.
 <br />
 <br />
 If you want to learn more about me or want to connect, please feel free to join!<br /><br />
