@@ -111,7 +111,7 @@ Kleber<br />
 <br />
 
 ## ☁️ 📬 Backend & Deploy
-```PHP```  ```Python``` ```Postgre``` ```MySql``` ```MariaDB``` ```SQL``` ```Mongo``` ```Heroku``` ```Firebase```
+```PHP```  ```Python``` ```MySql``` ```MariaDB``` ```SQL``` ```Firebase```
 <p align="left"> 
   <a href="https://php.net" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" title="PHP" width="65"/> PHP
@@ -126,6 +126,6 @@ Kleber<br />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" title="Firebase" width="95"/> Firebase
+    <img src="https://www.svgrepo.com/show/353735/firebase.svg" alt="Firebase" title="Firebase" width="45"/> Firebase
   </a>
 </p>
