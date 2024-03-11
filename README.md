@@ -10,7 +10,8 @@ I graduated from BrainStation in a full-time program UX Designer, which combined
 <br />
 My notable achievements include successfully implementing a loyalty program for
 1.4 million users and developing segmentation and dashboards to identify upsell and
-cross-sell opportunities, showcasing my capability to lead projects to successful outcomes. These skills, combined with a versatile career spanning technical support, customer service, and consultative roles, equip me with the unique ability to engage with diverse stakeholders effectively, which allowed me to help sales teams close over 50 contracts in 36 months, some of them with over 40 million users on the database, over 200 million emails sent.
+cross-sell opportunities, showcasing my capability to lead projects to successful outcomes. I Also, helped sales teams close over 50 contracts in 36 months, some of them with million users on the database and over 200 million emails monthly.
+Moreover, I created a segmentation and automation that is still running, it has 59 months long for parents expecting a baby. This customer journey has lots of touch points based on dates and special occasions respecting parents’ preferences. Knowledge of email regulations, best practices, and compliance (e.g., PIPEDA, CASL, GDPR, LGPD).
 <br />
 <br />
   <a href="https://github.com/kleber-smartdev/UX-Projects-Figma" target="_blank" rel="noreferrer">
