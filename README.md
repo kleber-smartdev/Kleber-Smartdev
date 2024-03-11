@@ -24,7 +24,8 @@ My notable achievements include successfully implementing a loyalty program for 
   </a>
 <br />
 <br />
-If you want to learn more about me or want to connect, please feel free to join!<br /><br />
+<br />
+If you want to learn more about me or want to connect, please feel free to join!
 <br />
 <br />
 Kleber<br />
