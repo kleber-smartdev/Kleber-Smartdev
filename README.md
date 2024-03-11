@@ -5,10 +5,7 @@ As a UI/UX Designer, I am developing software solutions with a comprehensive bac
 My expertise spans conducting user research, usability testing, and stakeholder interviews to deeply understand user needs, pain points, and workflow challenges. Collaboratively working with product managers and subject matter experts, I excel in defining user personas, mapping user journeys, and establishing functional requirements, ensuring that our solutions meet customer needs and demands.
 <br />
 <br />
-I graduated from BrainStation in a full-time program UX Designer, which combined with my expertise in data analysis, customer success, and frontend development, and technical background allows me to design better solutions with a customer-centric approach, and navigate complex problems, deliver tailored solutions, and implement full-cycle projects successfully
-<br />
-<br />
-In addition, my technical background and project leadership in global companies' environments have honed my ability to navigate complex problem spaces and deliver tailored solutions and full-cycle implementations. My data model understanding of more than a decade working with it allows me to understand product patterns through data mining and create data storytelling using interactive reports to communicate those complex concepts and the results of the analyses clearly and effectively to a diverse audience.
+I graduated from BrainStation in a full-time program UX Designer, which combined with my expertise in data analysis, customer success, and frontend development, and my technical background allows me to design better solutions with a customer-centric approach and navigate complex problems, deliver tailored solutions, and implement full-cycle projects successfully
 <br />
 <br />
 My notable achievements include successfully implementing a loyalty program for
