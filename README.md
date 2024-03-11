@@ -25,7 +25,7 @@ My notable achievements include successfully implementing a loyalty program for 
 <br />
 <br />
   <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/> https://linkedin.com/in/klebersousa
+    <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/> My Linkedin Profile
   </a>
 <br />
 <br />
