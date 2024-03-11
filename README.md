@@ -14,6 +14,11 @@ I graduated from BrainStation in a full-time program UX Designer, which combined
 My notable achievements include successfully implementing a loyalty program for 1.4 million users and developing segmentation and dashboards to identify upsell and cross-sell opportunities, showcasing my capability to lead projects to successful outcomes. I Also, helped sales teams close over 50 contracts in 36 months, some of them with million users on the database and over 200 million emails monthly. Moreover, I created a segmentation and automation that is still running, it has 59 months long for parents expecting a baby. This customer journey has lots of touch points based on dates and special occasions respecting parents’ preferences. Knowledge of email regulations, best practices, and compliance (e.g., PIPEDA, CASL, GDPR, LGPD).
 <br />
 <br />
+  <a href="https://kbsousa-portfolio.web.app" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="My Portfolio" title="My Portfolio" height="35"/> My Portfolio
+  </a>
+<br />
+<br />
   <a href="https://github.com/kleber-smartdev/UX-Projects-Figma" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="UX Figma Projects" title="UX Figma Projects" height="35"/> UX Figma Projects
   </a>
