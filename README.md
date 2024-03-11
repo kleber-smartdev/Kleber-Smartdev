@@ -28,7 +28,8 @@ My notable achievements include successfully implementing a loyalty program for 
 If you want to learn more about me or want to connect, please feel free to join!
 <br />
 <br />
-Kleber<br />
+Kleber
+<br />
 <br />
 <div>
   <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
