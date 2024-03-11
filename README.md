@@ -1,5 +1,8 @@
 ## Hi there!
-As a UI/UX Designer, I am developing software solutions with a comprehensive background in data analysis, A/B testing, customer journey mapping, dynamic content, and a customer-centric approach. Also, I have significant experience in developing analytics reporting strategies and solutions, including building data pipelines through various integrations from On-Premise platforms to SaaS platforms such as SAP, ERPs, Power BI, EPMs, HubSpot CRM, SAS, Salesforce, and Tableau.
+I am a Canadian citizen, bilingual in English and Portuguese, with over ten years of experience in technology and client-facing roles such as UX Designer, Frontend Developer, Customer Success, and Technical Support.
+<br />
+<br />
+I am developing software solutions with a comprehensive background in data analysis, A/B testing, customer journey mapping, dynamic content, and a customer-centric approach. Also, I have significant experience in developing analytics reporting strategies and solutions, including building data pipelines through various integrations from On-Premise platforms to SaaS platforms such as SAP, ERPs, Power BI, EPMs, HubSpot CRM, SAS, Salesforce, and Tableau.
 <br />
 <br />
 My expertise spans conducting user research, usability testing, and stakeholder interviews to deeply understand user needs, pain points, and workflow challenges. Collaboratively working with product managers and subject matter experts, I excel in defining user personas, mapping user journeys, and establishing functional requirements, ensuring that our solutions meet customer needs and demands.
@@ -8,10 +11,7 @@ My expertise spans conducting user research, usability testing, and stakeholder 
 I graduated from BrainStation in a full-time program UX Designer, which combined with my expertise in data analysis, customer success, and frontend development, and my technical background allows me to design better solutions with a customer-centric approach and navigate complex problems, deliver tailored solutions, and implement full-cycle projects successfully
 <br />
 <br />
-My notable achievements include successfully implementing a loyalty program for
-1.4 million users and developing segmentation and dashboards to identify upsell and
-cross-sell opportunities, showcasing my capability to lead projects to successful outcomes. I Also, helped sales teams close over 50 contracts in 36 months, some of them with million users on the database and over 200 million emails monthly.
-Moreover, I created a segmentation and automation that is still running, it has 59 months long for parents expecting a baby. This customer journey has lots of touch points based on dates and special occasions respecting parents’ preferences. Knowledge of email regulations, best practices, and compliance (e.g., PIPEDA, CASL, GDPR, LGPD).
+My notable achievements include successfully implementing a loyalty program for 1.4 million users and developing segmentation and dashboards to identify upsell and cross-sell opportunities, showcasing my capability to lead projects to successful outcomes. I Also, helped sales teams close over 50 contracts in 36 months, some of them with million users on the database and over 200 million emails monthly. Moreover, I created a segmentation and automation that is still running, it has 59 months long for parents expecting a baby. This customer journey has lots of touch points based on dates and special occasions respecting parents’ preferences. Knowledge of email regulations, best practices, and compliance (e.g., PIPEDA, CASL, GDPR, LGPD).
 <br />
 <br />
   <a href="https://github.com/kleber-smartdev/UX-Projects-Figma" target="_blank" rel="noreferrer">
