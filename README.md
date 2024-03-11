@@ -1,11 +1,11 @@
 ## Hi there!
-My name is Kleber. I am a Canadian citizen, bilingual in English and Portuguese, with over ten years of experience in technology and client-facing roles.
+As a UI/UX Designer, I am developing software solutions with a comprehensive background in data analysis, A/B testing, customer journey mapping, dynamic content, and a customer-centric approach. Also, I have significant experience in developing analytics reporting strategies and solutions, including building data pipelines through various integrations from On-Premise platforms to SaaS platforms such as SAP, ERPs, Power BI, EPMs, HubSpot CRM, SAS, Salesforce, and Tableau.
 <br />
 <br />
-My expertise in On-Premises and SaaS platforms, big data, and digital marketing strategies and developing analytical reporting —including email marketing and transactional, SMS, and social campaigns—complements the critical responsibilities of developing analytics reporting strategies and solutions. I have demonstrated proficiency in data analysis, A/B Tests, Lifecycle Campaigns, Customer Journey, Dynamic Content, and Personalization, leveraging customer behaviour insights to drive digital campaign success.
+My expertise spans conducting user research, usability testing, and stakeholder interviews to deeply understand user needs, pain points, and workflow challenges. Collaboratively working with product managers and subject matter experts, I excel in defining user personas, mapping user journeys, and establishing functional requirements, ensuring that our solutions meet customer needs and demands.
 <br />
 <br />
-Significantly, it extends to building data pipelines from various data integrations using manual uploads, ETL, REST, SOAP, and APIs from On-Premise platforms into SaaS platforms such as SAP, ERPs, Power BI, EPMs, HubSpot CRM, SAS, Salesforce, Tableau, and so on aligns with the preferred qualifications for the role.
+I graduated from BrainStation in a full-time program UX Designer, which combined with my expertise in data analysis, customer success, and frontend development, and technical background allows me to design better solutions with a customer-centric approach, and navigate complex problems, deliver tailored solutions, and implement full-cycle projects successfully
 <br />
 <br />
 In addition, my technical background and project leadership in global companies' environments have honed my ability to navigate complex problem spaces and deliver tailored solutions and full-cycle implementations. My data model understanding of more than a decade working with it allows me to understand product patterns through data mining and create data storytelling using interactive reports to communicate those complex concepts and the results of the analyses clearly and effectively to a diverse audience.
