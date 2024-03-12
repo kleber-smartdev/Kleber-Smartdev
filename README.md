@@ -19,11 +19,6 @@ My notable achievements include successfully implementing a loyalty program for 
   </a>
 <br />
 <br />
-  <a href="https://github.com/kleber-smartdev/UX-Projects-Figma" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/452202/figma.svg" alt="UX Figma Projects" title="UX Figma Projects" height="35"/> UX Figma Projects
-  </a>
-<br />
-<br />
   <a href="https://linkedin.com/in/klebersousa" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="Linkedin" title="Linkedin" height="35"/> My Linkedin Profile
   </a>
